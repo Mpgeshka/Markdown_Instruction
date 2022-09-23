@@ -132,19 +132,32 @@ Markdown позволяет выровнять содержимое столбц
 
 ## Уведомления
 
-> [!NOTE]
-> Information the user should notice even if skimming.
+| :exclamation:  This is very important   |
+|-----------------------------------------|
 
-> [!TIP]
-> Optional information to help a user be more successful.
+| :zap:        Ignore at your own risk!   |
+|-----------------------------------------|
 
-> [!IMPORTANT]
-> Essential information required for user success.
+| :memo:        | Take note of this       |
+|---------------|:------------------------|
 
-> [!CAUTION]
-> Negative potential consequences of an action.
 
-> [!WARNING]
-> Dangerous certain consequences of an action.
+| :point_up:    | Remember to not forget! |
+|---------------|:------------------------|
+
+| :warning: WARNING          |
+|:---------------------------|
+| I should warn you ...      |
+
+
+| :boom: DANGER              |
+|:---------------------------|
+| Will explode when clicked! |
+
+| :notebook: | Information the user should notice even if skimming |
+|:----:|:---:|
+
+| :bulb:| Интересно |
+| :----: | :----: |
 
 ## Заключение
